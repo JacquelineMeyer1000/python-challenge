@@ -1,4 +1,4 @@
-# python-challenge
+# Python-Challenge
 Intro to Python using two exercises: PyBank and PyPoll
 
 I. PyBank
